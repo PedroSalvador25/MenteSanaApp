@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "573795680083",
+    "project_id": "mentesana-75cfa",
+    "storage_bucket": "mentesana-75cfa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:573795680083:android:97ba2779140a65843e2ba6",
+        "android_client_info": {
+          "package_name": "com.orangecode.mentesana"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeh64jZ38NcoJUJZN436uORW-IKeTxglI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
