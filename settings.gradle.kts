@@ -19,5 +19,9 @@ dependencyResolutionManagement {
     }
 }
 
+<<<<<<< HEAD
 rootProject.name = "MenteSana"
+=======
+rootProject.name = "MenteSanaApp"
+>>>>>>> ee70a80f46890b6dbeb9c411f9c7efb64d439e79
 include(":app")

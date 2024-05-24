@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
+<<<<<<< HEAD
     <style name="Theme.MenteSana" parent="android:Theme.Material.Light.NoActionBar" />
+=======
+    <style name="Theme.MenteSanaApp" parent="android:Theme.Material.Light.NoActionBar" />
+>>>>>>> ee70a80f46890b6dbeb9c411f9c7efb64d439e79
 </resources>

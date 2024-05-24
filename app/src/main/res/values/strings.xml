@@ -1,3 +1,7 @@
 <resources>
+<<<<<<< HEAD
     <string name="app_name">MenteSana</string>
+=======
+    <string name="app_name">MenteSanaApp</string>
+>>>>>>> ee70a80f46890b6dbeb9c411f9c7efb64d439e79
 </resources>
